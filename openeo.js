@@ -1,3 +1,5 @@
+const axios = requre('axios');
+
 //// PROCESS GRAPH CREATION ////
 class ProcessGraphNode {
 	constructor() { }
