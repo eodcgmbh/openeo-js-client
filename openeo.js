@@ -1,4 +1,4 @@
-const axios = requre('axios');
+const axios = require('axios');
 
 //// PROCESS GRAPH CREATION ////
 class ProcessGraphNode {
